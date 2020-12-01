@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHRIST>
+<CS ID="1">
+<STU-NAME>Pradyumna Lama</STU-NAME>
+<STU-BRANCH>MCA</STU-BRANCH>
+<STU-COLLEGE>Christ University</STU-COLLEGE>
+<STU-EMAIL>pradyumna.lama@mca.christuniversity.in</STU-EMAIL>
+</CS>
+<CS ID="2">
+<STU-NAME>Jobin Reji</STU-NAME>
+<STU-BRANCH>MCA</STU-BRANCH>
+<STU-COLLEGE>Acharya Institute</STU-COLLEGE>
+<STU-EMAIL>jobin123@acharya.ca.in</STU-EMAIL>
+</CS>
+<CS ID="3">
+<STU-NAME>Shawn</STU-NAME>
+<STU-BRANCH>MCS</STU-BRANCH>
+<STU-COLLEGE>St. Joseph</STU-COLLEGE>
+<STU-EMAIL>shawn81@gmail.com</STU-EMAIL>
+</CS>
+<CS ID="4">
+<STU-NAME>Mohit Lal</STU-NAME>
+<STU-BRANCH>Mtech</STU-BRANCH>
+<STU-COLLEGE>Christ University</STU-COLLEGE>
+<STU-EMAIL>Mohit.lal@mtech.christuniversity.in</STU-EMAIL>
+</CS>
+<CS ID="5">
+<STU-NAME>Fredrick</STU-NAME>
+<STU-BRANCH>MBA</STU-BRANCH>
+<STU-COLLEGE>Ramaiya Collage</STU-COLLEGE>
+<STU-EMAIL>fredrick39@gmail.com</STU-EMAIL>
+</CS>
+</CHRIST>
